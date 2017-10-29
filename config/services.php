@@ -35,4 +35,10 @@ return [
         'secret' => env('STRIPE_SECRET'),
     ],
 
+    'facebook' => [
+        'client_id' => '2088002984810041',
+        'client_secret' => 'ea327ab5617f0c62dd1a0ae9e13b1b66',
+        'redirect' => 'http://devolution.dev/callback',
+    ],
+
 ];
