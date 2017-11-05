@@ -16,6 +16,7 @@
 
     <!-- Custom styles for this template -->
     <link href="/css/app.css" rel="stylesheet">
+    <link href="/css/font-awesome.min.css" rel="stylesheet">
 
     @include('layouts.nav')
 

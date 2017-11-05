@@ -18,6 +18,22 @@
   color: #FFF !important;
 }
 
+.navbar-nav {
+  float: right !important;
+}
+
+.navbar a {
+  cursor: pointer;
+}
+
+.fblogin {
+  background: #354E84 !important;
+  WIDTH: 100%;
+  border-radius: 5px;
+  line-height: 100%;
+  margin-bottom: 0;
+}
+
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
